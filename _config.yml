@@ -75,6 +75,12 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+analytics:
+  provider: "ms-clarity"
+  clarity:
+    tracking_id: "whzgvc18ly"
+
+
 footer:
   links:
     - label: "Twitter"
