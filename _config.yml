@@ -76,7 +76,7 @@ author:
       url: "https://instagram.com/"
 
 analytics:
-  provider: "ms-clarity"
+  provider: "custom"
   clarity:
     tracking_id: "whzgvc18ly"
 
